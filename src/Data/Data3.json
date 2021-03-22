@@ -1,0 +1,106 @@
+{
+    "bike": [
+        {
+            "key": "01",
+            "capacity": "1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61FMbYqZVxL._SY355_.jpg",
+            "rent": "$67"
+        },
+        {
+            "key": "02",
+            "capacity": "1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61FMbYqZVxL._SY355_.jpg",
+            "rent": "$37"
+        },
+        {
+            "key": "03",
+            "capacity": "1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61FMbYqZVxL._SY355_.jpg",
+            "rent": "$59"
+        },
+        {
+            "key": "04",
+            "capacity": "1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61FMbYqZVxL._SY355_.jpg",
+            "rent": "$102"
+        }
+    ],
+    "car": [
+        {
+            "key": "05",
+            "capacity": "4",
+            "image": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364",
+            "rent": "$250"
+        },
+        {
+            "key": "06",
+            "capacity": "2",
+            "image": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364",
+            "rent": "$950"
+        },
+        {
+            "key": "07",
+            "capacity": "4",
+            "image": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364",
+            "rent": "$222"
+        },
+        {
+            "key": "08",
+            "capacity": "2",
+            "image": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364",
+            "rent": "$341"
+        }
+    ],
+    "bus": [
+        {
+            "key": "09",
+            "capacity": "30",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+            "rent": "$50"
+        },
+        {
+            "key": "10",
+            "capacity": "25",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+            "rent": "$60"
+        },
+        {
+            "key": "11",
+            "capacity": "35",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+            "rent": "$40"
+        },
+        {
+            "key": "12",
+            "capacity": "30",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+            "rent": "$30"
+        }
+    ],
+    "train": [
+        {
+            "key": "13",
+            "capacity": "100",
+            "image": "https://media.istockphoto.com/photos/red-highspeed-train-with-blurred-motion-picture-id457433171?k=6&m=457433171&s=612x612&w=0&h=sFPefb-3B8uSM7Y7iuPC5LI3Dlt64AYMDQDaWmMwVgw=",
+            "rent": "$20"
+        },
+        {
+            "key": "14",
+            "capacity": "200",
+            "image": "https://media.istockphoto.com/photos/red-highspeed-train-with-blurred-motion-picture-id457433171?k=6&m=457433171&s=612x612&w=0&h=sFPefb-3B8uSM7Y7iuPC5LI3Dlt64AYMDQDaWmMwVgw=",
+            "rent": "$30"
+        },
+        {
+            "key": "15",
+            "capacity": "300",
+            "image": "https://media.istockphoto.com/photos/red-highspeed-train-with-blurred-motion-picture-id457433171?k=6&m=457433171&s=612x612&w=0&h=sFPefb-3B8uSM7Y7iuPC5LI3Dlt64AYMDQDaWmMwVgw=",
+            "rent": "$40"
+        },
+        {
+            "key": "16",
+            "capacity": "400",
+            "image": "https://media.istockphoto.com/photos/red-highspeed-train-with-blurred-motion-picture-id457433171?k=6&m=457433171&s=612x612&w=0&h=sFPefb-3B8uSM7Y7iuPC5LI3Dlt64AYMDQDaWmMwVgw=",
+            "rent": "$60"
+        }
+    ]
+}
